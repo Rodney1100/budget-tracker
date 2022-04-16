@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app lets you search for books and save all kinds off books to your list. It is live and all you have to do is click https://calm-shelf-82332.herokuapp.com/ and enjoy.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,8 +20,9 @@
   "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
-  }
+  },
+  "keywords": []
 }
