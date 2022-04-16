@@ -2,7 +2,7 @@
 
 ## Deployment and Installation 
 
-This app lets you search for books and save all kinds off books to your list. It is live and all you have to do is click https://calm-shelf-82332.herokuapp.com/ and enjoy.
+This app lets you search for books and save all kinds off books to your list. It is live and all you have to do is click https://budget-traking.herokuapp.com/ and enjoy.
 
 ## Screenshots
 
